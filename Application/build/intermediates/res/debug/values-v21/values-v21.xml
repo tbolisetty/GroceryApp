@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/shruthi/AndroidStudioProjects/SlidingTabsColors/Application/src/main/res/values-v21/base-colors.xml -->
+    <eat-comment/>
+    <color name="ColorPrimary">#e62157</color>
+    <color name="ColorPrimaryDark">#c31c13</color>
+    <color name="tabColor">#ffffff</color>
+    <color name="tabsScrollColor">#8a140e</color>
+    <!-- From: file:/home/shruthi/AndroidStudioProjects/SlidingTabsColors/Application/src/main/res/values-v21/base-template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Material.Light"/>
+</resources>
